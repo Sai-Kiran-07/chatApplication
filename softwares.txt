@@ -1,0 +1,5 @@
+word
+paint
+excel
+notepad
+powerpoint
